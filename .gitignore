@@ -1,0 +1,6 @@
+*.zip
+*.tar.gz
+*.pt
+*.onnx
+node_modules/
+__pycache__/

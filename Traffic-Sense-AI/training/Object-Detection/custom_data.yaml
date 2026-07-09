@@ -1,0 +1,16 @@
+path: C:\Users\ulhaq\Desktop\TrafficSense\datasets\datasets  
+train: train 
+val: valid  
+test:  
+
+names:
+  0: bike
+  1: bus
+  2: car
+  3: emv
+  4: lifter
+  5: rickshaw
+  6: truck
+  7: car
+  8: people
+  9: voiture

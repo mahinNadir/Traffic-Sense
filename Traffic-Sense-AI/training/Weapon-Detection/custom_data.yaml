@@ -1,0 +1,9 @@
+path: C:\Users\ulhaq\Desktop\TrafficSense\datasets\datasets  
+train: train 
+val: valid  
+test:  
+
+names:
+  0: Handgun
+  1: Gun
+  2: Guns
