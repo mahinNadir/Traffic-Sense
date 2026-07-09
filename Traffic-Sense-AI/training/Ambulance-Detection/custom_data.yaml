@@ -1,0 +1,9 @@
+path: C:\Users\ulhaq\Desktop\TrafficSense\datasets\datasets  
+train: train 
+val: valid  
+test:  
+
+names:
+  0: ambulance
+  1: sirine
+  2: sticker
